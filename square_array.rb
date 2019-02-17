@@ -9,4 +9,4 @@ def square_array(array)
   hellosq
 end
 
-binding.pry
+#binding.pry
